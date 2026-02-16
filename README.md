@@ -34,4 +34,4 @@ Currently working on AI agent systems at xAI and developing data-driven trading 
 
 ---
 
-📫 **efe.kumru@sabanciuniv.edu** · [Portfolio](https://portfolio-nine-orcin-abxos22znu.vercel.app) · [LinkedIn](https://linkedin.com/in/efekumru)
+📫 **efe.kumru@sabanciuniv.edu** · [Portfolio](https://portfolio-nine-orcin-abxos22znu.vercel.app) · [LinkedIn](https://linkedin.com/in/efekumru) 
